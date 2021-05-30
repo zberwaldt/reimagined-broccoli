@@ -1,0 +1,8 @@
+{{ partial "header.html" . }}
+<main class="product">
+    {{ range .Site.Data.product }}
+    {{ partial "product.html" . }}
+    {{ end }}
+</main>
+
+{{ partial "footer.html" . }}

@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+
+[params]
+    snipcartKey = "NzZiZjc4MWItZWM2YS00MjA0LWFmYTktMTA3MWMxOGFhN2FlNjM3NTM2MDAxODYzOTQ3MDU2"
