@@ -42,4 +42,5 @@ fields:
     required: false
   label: product_url
 pages:
+- content/pagetest.md
 - content/products/cheddar_wheel.md
