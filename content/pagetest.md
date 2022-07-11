@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 id = "Page"
 image = ""
 name = "Age"
